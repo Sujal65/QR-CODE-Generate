@@ -1,6 +1,6 @@
 import qrcode
 
-data = "kaharsujal65@gmail.com"
+data = "hi i love you "
 qr = qrcode.QRCode(
     version=1,
     error_correction=qrcode.constants.ERROR_CORRECT_L,
