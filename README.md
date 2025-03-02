@@ -1,5 +1,5 @@
 # QR-CODE-Generate
-qr cod ein easy to making .
+qr code in easy to making .
 first step : 1 
 pip install qr code
 second step : 2
